@@ -67,9 +67,3 @@ const array : MyList = []
 array.push(1);
 array.push('23');
 array.push(false);
-
-//Generics
-
-class Thing <T> {
-
-}
